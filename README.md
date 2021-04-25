@@ -1,4 +1,5 @@
-## 爪印供应商集采商品Web
+## React App
+React模板
 
 ### 运行
 yarn start
